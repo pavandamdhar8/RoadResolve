@@ -1,12 +1,12 @@
 ﻿# <Your Project Name>
 Added some content to README
-# FixMyRoad: Bridging Infrastructure Gaps Through Civic Technology
+# RoadResolve: Bridging Infrastructure Gaps Through Civic Technology
 
-**FixMyRoad** is a comprehensive Flask-based web application designed to address India's road infrastructure challenges through an innovative digital ecosystem connecting citizens with government authorities.
+**RoadResolve ** is a comprehensive Flask-based web application designed to address India's road infrastructure challenges through an innovative digital ecosystem connecting citizens with government authorities.
 
 ## Executive Summary
 
-Road infrastructure deficiencies continue to plague urban and rural India, with deteriorating surfaces, inadequate maintenance, and inefficient repair systems creating significant public safety concerns. FixMyRoad offers a technology-driven solution that streamlines the reporting, tracking, and resolution of road infrastructure issues through machine learning verification, geospatial analysis, and community engagement.
+Road infrastructure deficiencies continue to plague urban and rural India, with deteriorating surfaces, inadequate maintenance, and inefficient repair systems creating significant public safety concerns. RoadResolve offers a technology-driven solution that streamlines the reporting, tracking, and resolution of road infrastructure issues through machine learning verification, geospatial analysis, and community engagement.
 
 ## Problem Context
 
@@ -19,7 +19,7 @@ India's road network faces persistent maintenance challenges that compromise saf
 
 ## Solution Architecture
 
-FixMyRoad implements a multi-layered approach to infrastructure management:
+RoadResolve implements a multi-layered approach to infrastructure management:
 
 ### Core Components
 
@@ -64,7 +64,7 @@ FixMyRoad implements a multi-layered approach to infrastructure management:
 ### System Architecture
 
 ```
-FIXMYROAD/
+RoadResolve/
 │
 ├── models/                  # Machine learning model repositories
 ├── static/                  # Frontend assets
