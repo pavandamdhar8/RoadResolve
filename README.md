@@ -1,6 +1,6 @@
 ﻿# <Your Project Name>
 Added some content to README
-# 🛣️ FixMyRoad: Bridging Infrastructure Gaps Through Civic Technology
+# FixMyRoad: Bridging Infrastructure Gaps Through Civic Technology
 
 **FixMyRoad** is a comprehensive Flask-based web application designed to address India's road infrastructure challenges through an innovative digital ecosystem connecting citizens with government authorities.
 
@@ -86,35 +86,6 @@ FIXMYROAD/
 └── requirements.txt         # Dependency specifications
 ```
 
-## Deployment Guidelines
-
-### System Requirements
-
-* Python 3.8+
-* MongoDB database
-* Modern web browser supporting JavaScript ES6+
-
-### Installation Procedure
-
-```bash
-# Repository acquisition
-git clone https://github.com/Vedant988/fix-my-road.git
-cd fixmyroad
-
-# Environment configuration
-python -m venv venv
-venv\Scripts\activate   # Windows environments
-# source venv/bin/activate   # Unix-based environments
-
-# Dependency installation
-pip install -r requirements.txt
-
-# Application initialization
-python app.py
-```
-
-The application will be accessible at: https://fixmyroad-qft0.onrender.com/
-
 ## Implementation Workflow
 
 1. **User Registration & Authentication**: Secure account creation and verification
@@ -123,14 +94,3 @@ The application will be accessible at: https://fixmyroad-qft0.onrender.com/
 4. **Community Participation**: Democratic issue prioritization and crowdsourced verification
 5. **Predictive Analysis**: Infrastructure assessment and maintenance forecasting
 
-## Development Contribution Protocol
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/enhancement-description`)
-3. Implement modifications (`git commit -m 'Implementation: enhancement description'`)
-4. Push to origin branch (`git push origin feature/enhancement-description`)
-5. Submit pull request with comprehensive documentation
-
-## Acknowledgments
-
-This initiative addresses critical infrastructure challenges facing urban and rural India. Development contributions by Yash Saini, Piyush Gupta, Anuj Soni, and Vedant.
